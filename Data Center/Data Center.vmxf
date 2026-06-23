@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 ae d2 0e 08 6d 27 69-3d 42 e8 a1 bf 8f 31 cf</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Data Center.vmx</vmxPathName></VM><tools-install-info><installError>21000</installError><updateCounter>2</updateCounter></tools-install-info></Foundry>
